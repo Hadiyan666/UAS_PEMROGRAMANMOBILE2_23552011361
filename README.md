@@ -1,1 +1,3 @@
-# UAS_PEMROGRAMANMOBILE2_23552011361
+Judul : Manajemen Keuangan Keseharian berbasis Web dan Mobile menggunakan Flutter dan Dart
+
+Nama Aplikasi : DompetKu
