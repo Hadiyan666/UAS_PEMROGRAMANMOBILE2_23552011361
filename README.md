@@ -33,9 +33,22 @@ Implementasi OOP pada codingan =
 1. Encapsulation
    Penjelasan singkat mengenai encapsulation adalah menyembunyikan detail implementasi dan       hanya expose interface yang diperlukan
    Implementasi pada codingan =
-   <img width="652" height="952" alt="Screenshot 2026-01-18 090357" src="https://github.com/user-attachments/assets/c1567685-e4c6-45da-a8e7-7111ecb21913" />
 
+   <img width="300" height="500" alt="Screenshot 2026-01-18 090357" src="https://github.com/user-attachments/assets/c1567685-e4c6-45da-a8e7-7111ecb21913" />
 
-3. Inheritence
-4. Polymorphism
-5. Abstraction
+2. Inheritence
+    Penjelasan singkat mengenai inheritence adalah class child yang mewarisi properties dan       method dari class parent
+
+   <img width="400" height="500" alt="Screenshot 2026-01-18 090803" src="https://github.com/user-attachments/assets/6540d0e4-7946-4da8-bf95-09344596ff45" />
+
+3. Polymorphism
+   Penjelasan singkat mengenai polymorphism adalah satu interface, banyak implementasi, objek    berbeda dapat diperlukan sama
+
+   <img width="300" height="300" alt="Screenshot 2026-01-18 091220" src="https://github.com/user-attachments/assets/01c25c58-2a9f-4364-b119-c1151cff40f3" />
+
+<img width="400" height="300" alt="Screenshot 2026-01-18 091032" src="https://github.com/user-attachments/assets/a22f2542-5cbe-4083-a31c-8f9b355ba6fb" />
+
+4. Abstraction
+   Penjelasan singkat mengenai abstraction adalah menyembunyikan kompleksitas dan hanya          menampilkan fitur penting
+
+   <img width="300" height="500" alt="Screenshot 2026-01-18 091459" src="https://github.com/user-attachments/assets/3896fb82-5c6c-4668-af37-a269d1b803b7" />
