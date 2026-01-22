@@ -16,7 +16,7 @@ Future<void> main() async {
         
   WidgetsFlutterBinding.ensureInitialized();
   
-  // Initialize Supabase
+  // Menginisiasi Supabase
   await SupabaseService().initialize();
   
   runApp(const DompetKuApp());
