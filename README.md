@@ -20,8 +20,19 @@ Fitur - Fitur :
 
 Fitur - Fitur Dinamis =
 1. Real-time Balance = Update otomatis saat transaksi
+
+<img width="300" height="500" alt="Screenshot 2026-01-23 085143" src="https://github.com/user-attachments/assets/974b6acd-d315-4771-977d-b0331781d760" />
+
 2. Live Search & Filter = Filter instant saat mengetik
+
+<img width="700" height="240" alt="Screenshot 2026-01-23 085729" src="https://github.com/user-attachments/assets/2af682a7-4ec6-43ae-bee0-13e8eba8c4ec" />
+
 3. Interactive Charts = Pie chart dinamis
+
+<img width="922" height="762" alt="Screenshot 2026-01-23 090044" src="https://github.com/user-attachments/assets/f8d7a236-334f-40d1-9433-49ad43a29fa0" />
+
+<img width="498" height="527" alt="Screenshot 2026-01-23 090129" src="https://github.com/user-attachments/assets/f34031e1-18b6-447e-841f-79c97f83ed2c" />
+
 4. Budget Warning System = Warna berubah (hijau → orange → merah)
 5. Dynamic Categories = User bisa tambah kategori
 6. Transaction CRUD = Create, Read, Delete
